@@ -52,16 +52,16 @@ body{
      transform: scale(0) translateY(400px);
  }
  p span1 {
-color:rgb(39, 243, 16);
+color:rgb(24, 203, 255);
  }
  p span2 {
     color:rgb(243, 16, 16);
      }
      p span3 {
-        color:brown;
+        color:rgb(221, 125, 0);
          }
          p span4 {
-            color:rgb(255, 136, 9);
+            color:rgb(254, 178, 0);
              }
  .card:hover h1 {
      transform:translateY(-45px);
